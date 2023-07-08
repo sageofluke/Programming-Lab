@@ -99,7 +99,7 @@
 > 
 15th Question's Answer: [Here](https://replit.com/@YourTilak/All-Questions-Answer#15.c)  
 
-![Tilak](https://github.com/YourTilak/Programming-Lab/blob/main/logo.jpeg)  
+![Tilak](/images/logo.jpeg)  
 
 >> It took me 2 hours to code these programs and upload to my website :)
 > 
